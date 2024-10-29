@@ -1,0 +1,7 @@
+path: /Users/siuan/OneDrive/Documents/ML_Images
+train: train/images
+val: train/images
+
+#Classes
+names:   
+  0: balloon
