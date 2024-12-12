@@ -1,0 +1,3 @@
+[submodule "jetson-gpio"]
+	path = jetson-gpio
+	url = https://github.com/NVIDIA/jetson-gpio.git
